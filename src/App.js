@@ -3,13 +3,7 @@ import ImageCropper from './ImageCropper';
 
 function App() {
   return (
-  <p>this is</p>
-
-  
-
-  
-
-  
+  <p>A nguyen sua code</p>
   );
 }
 
